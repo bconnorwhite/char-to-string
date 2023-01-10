@@ -1,6 +1,6 @@
 {
   "name": "char-to-string",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Convert a character or character code to string",
   "main": ".auto/build/index.js",
   "author": "Connor White",
